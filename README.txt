@@ -1,0 +1,1 @@
+Dentro de este repositorio estan los 10 ejercicios de la practica de CSS los cuales cuentan conlas modificaciones extrax que pidio
